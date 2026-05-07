@@ -11,16 +11,14 @@ Building reliable and scalable Discord bots with clean architecture.
 
 • 🎓 Student  
 • 🤖 Discord bot developer  
-• ⚙️ Focused on backend logic, automation, and maintainable systems  
-• 🗣️ Primary spoken language: Hindi  
-• 📈 Constantly improving performance and structure  
+• 🗣️ Primary spoken language: English  
 
 ---
 
 ## Connect
 
 • 🌐 Website: https://aeroxdevs.in  
-• 🧩 Portfolio: https://itsfiizys.com  
+• 🧩 Portfolio: https://itsfizys.com  
 • 💬 Discord: itsfizys  
 
 ---
@@ -47,7 +45,7 @@ Building reliable and scalable Discord bots with clean architecture.
 
 ## GitHub Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AeroXDevs&theme=merko&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AeroXDevs&theme=merko&hide_border=true)
 
 ---
 
