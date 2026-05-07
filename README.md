@@ -44,8 +44,6 @@ Building reliable and scalable Discord bots with clean architecture.
 ---
 
 ## GitHub Stats
-
-# GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AeroXDevs&theme=tokyonight)
 
 ---
