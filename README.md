@@ -17,7 +17,7 @@ Building reliable and scalable Discord bots with clean architecture.
 
 ## Connect
 
-• 🧩 Portfolio: https://itsfizys.com  
+• 🧩 Portfolio: https://itsfizys.gg  
 • 💬 Discord: itsfizys  
 
 ---
