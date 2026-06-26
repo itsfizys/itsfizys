@@ -17,7 +17,6 @@ Building reliable and scalable Discord bots with clean architecture.
 
 ## Connect
 
-• 🌐 Website: https://aeroxdevs.in  
 • 🧩 Portfolio: https://itsfizys.com  
 • 💬 Discord: itsfizys  
 
