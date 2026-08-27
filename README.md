@@ -64,6 +64,6 @@ Built it this way because I got tired of profiles that break. If you want the<br
 same setup, everything is here: the scripts, the fonts, the workflow. Fork it,<br>
 swap in your username, push. Takes about ten minutes.
 
-The stats workflow needs a user-owned GitHub token in the `PROFILE_STATS_TOKEN`<br>
-Actions secret. It is required so the contribution total includes private activity,<br>
-matching the count shown on the signed-in GitHub profile.
+The stats workflow uses GitHub's built-in Actions token. To include private activity,<br>
+enable **Private contributions** under your GitHub profile's **Contribution settings**.<br>
+GitHub then exposes anonymized private contribution counts to the profile calendar.
