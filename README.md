@@ -30,12 +30,12 @@ Also deep into Minecraft plugin/mod development and open-source bot infrastructu
 Music bot built on Discord's Components V2. The flagship bot of AeroX,<br>
 22 stars, 33 forks, and actively maintained.
 
-**[Typescript-Handler](https://github.com/itsfizys/Typescript-Handler)** &nbsp;·&nbsp; <samp>typescript, discord.js</samp><br>
-A clean, modular Discord.js command handler. Fork it and you're running<br>
+**[piccdn](https://github.com/itsfizys/Typescript-Handler)** &nbsp;·&nbsp; <samp>typescript, rawgithubapi</samp><br>
+A clean, api containing images of multiple categories to use in your project <br>
 in minutes, no boilerplate fighting required.
 
-**[handler-mongodb](https://github.com/itsfizys/handler-mongodb)** &nbsp;·&nbsp; <samp>javascript, mongodb</samp><br>
-The same handler, now with a real database layer. Persistent state,<br>
+**[animequotescsn](https://github.com/itsfizys/animequotescdn)** &nbsp;·&nbsp; <samp>javascript, html</samp><br>
+A web api to generate anime quote cards containing over 8000 quotes,<br>
 clean architecture, ready to scale.
 
 **[minecraft-dev-guide](https://github.com/itsfizys/minecraft-dev-guide)** &nbsp;·&nbsp; <samp>java, glsl</samp><br>
