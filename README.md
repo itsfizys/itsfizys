@@ -30,7 +30,7 @@ Also deep into Minecraft plugin/mod development and open-source bot infrastructu
 Music bot built on Discord's Components V2. The flagship bot of AeroX,<br>
 22 stars, 33 forks, and actively maintained.
 
-**[piccdn](https://github.com/itsfizys/Typescript-Handler)** &nbsp;·&nbsp; <samp>typescript, rawgithubapi</samp><br>
+**[piccdn](https://github.com/itsfizys/piccdn)** &nbsp;·&nbsp; <samp>typescript, rawgithubapi</samp><br>
 A clean, api containing images of multiple categories to use in your project <br>
 in minutes, no boilerplate fighting required.
 
