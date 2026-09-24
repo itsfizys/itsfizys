@@ -34,7 +34,7 @@ Music bot built on Discord's Components V2. The flagship bot of AeroX,<br>
 A clean, api containing images of multiple categories to use in your project <br>
 in minutes, no boilerplate fighting required.
 
-**[animequotescsn](https://github.com/itsfizys/animequotescdn)** &nbsp;·&nbsp; <samp>javascript, html</samp><br>
+**[animequotescdn](https://github.com/itsfizys/animequotescdn)** &nbsp;·&nbsp; <samp>javascript, html</samp><br>
 A web api to generate anime quote cards containing over 8000 quotes,<br>
 clean architecture, ready to scale.
 
