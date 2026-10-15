@@ -18,7 +18,6 @@
 
 I build Discord bots and the tooling around them. Most of what I ship lives inside<br>
 [AeroX Development](https://github.com/AeroXDevs), 7k+ members, from concept to commit.<br>
-Also deep into Minecraft plugin/mod development and open-source bot infrastructure.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
