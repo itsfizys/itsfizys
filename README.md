@@ -6,16 +6,13 @@
 
 [itsfizys.gg](https://itsfizys.gg) &nbsp;·&nbsp;
 [discord](https://discord.gg/aerox) &nbsp;·&nbsp;
-[youtube](https://youtube.com/@aeroxdevs) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/aeroxdevs)
+[youtube](https://youtube.com/@aeroxdevs)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-Student developer and founder of [AeroX](https://discord.gg/aerox), a developer community built around turning ideas into real things.
-
-I build Discord bots and the tooling around them. Most of what I ship lives inside [AeroX Development](https://github.com/AeroXDevs), a 7k+ member community where ideas go from concept to commit.
+Student developer and founder of [AeroX](https://aeroxdevs.in), a 7k+ member developer community. I build Discord bots and developer tools.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
