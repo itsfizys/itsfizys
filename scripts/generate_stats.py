@@ -466,7 +466,7 @@ def main():
         "langs.svg":  draw_langs(s),
         "year.svg":   draw_year(s),
     }
-    for word in ("about", "stack", "projects", "stats", "about this page"):
+    for word in ("about", "stack", "projects", "stats"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)
 
     changed = [n for n, svg in files.items()
